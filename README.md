@@ -1,2 +1,4 @@
 # BaekJoon
-C
+C/C++
+
+https://www.acmicpc.net/step
